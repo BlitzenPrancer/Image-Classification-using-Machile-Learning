@@ -1,2 +1,2 @@
-# Image-Classifier
-Image Classifier
+# Image classification using Machine Learning
+Image-Classifier using ML
